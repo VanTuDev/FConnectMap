@@ -3,4 +3,3 @@ node_modules
 .env
 .DS_Store
 *.log
-#tôi không muống đẩy env lên git    
